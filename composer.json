@@ -1,0 +1,5 @@
+{
+    "require": {
+        "mfacenet/hello-world": "^1.0"
+    }
+}
